@@ -1,5 +1,5 @@
 # CovidDataExploration
-[Click here to see data visualisation (https://public.tableau.com/app/profile/benjamin.agbo/viz/portfolio_CovidData/Dashboard1)]
+[Click here to visualise the results (https://public.tableau.com/app/profile/benjamin.agbo/viz/portfolio_CovidData/Dashboard1)]
 ```sql
 Select *
 From portfolio_project.covid_deaths
